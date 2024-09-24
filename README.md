@@ -6,7 +6,7 @@ Members: \
 Mohammed Thafheem \ 
 Kasra Sartaee \
 Mary Shihani \
-Prudhvi Varma `
+Prudhvi Varma ` \
 Project Milestones: [further dates to be added] \
 4th Oct 2024 - Dataset Presentation \
 Dataset Sources: \

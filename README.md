@@ -10,7 +10,7 @@ Prudhvi Varma ` \
 Project Milestones: [further dates to be added] \
 4th Oct 2024 - Dataset Presentation \
 Dataset Sources: \
-https://www.kaggle.com/datasets/fatihb/coffee-quality-data-cqi
+https://www.kaggle.com/datasets/fatihb/coffee-quality-data-cqi \
 https://www.kaggle.com/datasets/michals22/coffee-dataset?select=Coffee_domestic_consumption.csv
 
 

@@ -20,6 +20,10 @@ This project explores two distinct machine learning tasks:
 - Clustering techniques (e.g., K-Means) are employed to discover patterns in coffee quality evaluations.
 
 ---
+### Project Milestones
+D1. Week 4 - Project Pitch
+D2. Week 11 - Project Report and code finalized 
+D3. Week 12 - Project Presentation and Viva Session
 
 ## Datasets
 
@@ -58,15 +62,24 @@ This project explores two distinct machine learning tasks:
 ## Notebook Structure
 
 ### 1. Image Processing and Classification
-- **Notebook**: `cnn.ipynb`, `KNN.ipynb`, `KNN_Augmentation.ipynb`,`MLP.ipynb`
+- **Notebook**: [cnn.ipynb](https://github.com/abdulr2004/F20DL_UG_Group_2/blob/main/notebooks/cnn.ipynb), [KNN.ipynb](https://github.com/abdulr2004/F20DL_UG_Group_2/blob/main/notebooks/KNN.ipynb),   [KNN Augmentation.ipynb](https://github.com/abdulr2004/F20DL_UG_Group_2/blob/main/notebooks/KNN_Augmentation.ipynb),[MLP Notebook.ipynb](https://github.com/abdulr2004/F20DL_UG_Group_2/blob/main/notebooks/MLP%20Notebook.ipynb)  
 - Covers image preprocessing, augmentation, and training CNN, MLP, and k-NN models for plant health classification.
 
+
+
+
+
+
+
+
+
 ### 2. EDA and Coffee Quality Prediction
-- **Notebook**: `EDA.ipynb`, `Logistic Regression.ipynb`, `Decision_Tree.ipynb`
+- **Notebook**: [EDA.ipynb](https://github.com/abdulr2004/F20DL_UG_Group_2/blob/main/notebooks/EDA.ipynb)
+, [Logistic Regression.ipynb](https://github.com/abdulr2004/F20DL_UG_Group_2/blob/main/notebooks/Logistic%20Regression.ipynb)  , [Decision_Tree.ipynb](https://github.com/abdulr2004/F20DL_UG_Group_2/blob/main/notebooks/Decision_Tree.ipynb)  
 - Includes exploratory data analysis (EDA), clustering (K-Means), and machine learning models for coffee quality prediction.
 
 ### 3. Clustering and Insights
-- **Notebook**: `Clustering.ipynb`
+- **Notebook**: `[Clustering.ipynb](https://github.com/abdulr2004/F20DL_UG_Group_2/blob/main/notebooks/Clustering.ipynb)  
 - Applies K-Means clustering to identify patterns in sensory evaluation data.
 
 ---
@@ -84,8 +97,8 @@ cd F20DL_UG_Group_2
 ## 2. Dataset Preparation
 Before running the models, the following notebooks must be executed:
 
-1. **Run Preprocessing.ipynb**: Preprocesses the tabular dataset.
-2. **Run ImagePreProcessing.ipynb**: After downPrepares the image dataset.
+1. **Run Preprocessing.ipynb**: [Preprocessing.ipynb](https://github.com/abdulr2004/F20DL_UG_Group_2/blob/main/notebooks/Preprocessing.ipynb) Preprocesses the tabular dataset.
+2. **Run ImagePreProcessing.ipynb**: [ImagePreProcessing.ipynb](https://github.com/abdulr2004/F20DL_UG_Group_2/blob/main/notebooks/ImagePreProcessing.ipynb) , After downlading the zip file, Prepares the image dataset.
 
 ---
 

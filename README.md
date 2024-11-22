@@ -29,13 +29,17 @@ This project explores two distinct machine learning tasks:
 - Images are resized to 64x64 pixels and preprocessed with feature scaling.
 - Augmentation techniques (rotation, flipping, zooming) are applied to improve model performance.
 - **Source**: Dataset is downloaded via a provided script.
+- **Original Links**: 
+(https://data.mendeley.com/datasets/t2r6rszp5c/1) \
+(https://data.mendeley.com/datasets/tgv3zb82nd/1) 
 
 ### Tabular Dataset
 **Arabica Coffee Quality Dataset**:
 - Contains sensory evaluation scores for attributes like aroma, flavor, acidity, and aftertaste.
 - **Target variable**: Coffee quality (categorized into "Low", "Moderate", and "High" quality).
 - **Source**: Provided in the repository as `df_arabica_clean.csv`.
-
+- **Original Links**: 
+(https://www.kaggle.com/datasets/fatihb/coffee-quality-data-cqi)
 ---
 
 ## Key Objectives

@@ -113,3 +113,48 @@ Before running the models, the following notebooks must be executed:
 - **Scikit-learn**: Machine learning models (Logistic Regression, Decision Trees, K-Means, K-NN).
 - **TensorFlow/Keras**: Deep learning models (CNN, MLP).
 - **Pillow**: Image processing.
+
+Classification Report (Logistic Regression)
+| Class             | Precision | Recall | F1-Score | Support |
+|-------------------|-----------|--------|----------|---------|
+| Moderate Quality  | 1.00      | 0.94   | 0.97     | 17      |
+| Good Quality      | 0.88      | 0.93   | 0.90     | 15      |
+| High Quality      | 0.90      | 0.90   | 0.90     | 10      |
+| **Accuracy**      |           |        | **0.93** | 42      |
+| **Macro Avg**     | 0.92      | 0.92   | 0.92     | 42      |
+| **Weighted Avg**  | 0.93      | 0.93   | 0.93     | 42      |
+
+Classification Report for Decision Tree Model
+| Class   | Precision | Recall | F1-Score | Support |
+|---------|-----------|--------|----------|---------|
+| 0       | 1.00      | 1.00   | 1.00     | 16      |
+| 1       | 1.00      | 0.82   | 0.90     | 17      |
+| 2       | 0.75      | 1.00   | 0.86     | 9       |
+| **Accuracy**      |           |        | **0.93** | 42      |
+| **Macro Avg**     | 0.92      | 0.94   | 0.92     | 42      |
+| **Weighted Avg**  | 0.95      | 0.93   | 0.93     | 42      |
+
+Classification Report for KNN
+| Class         | Precision | Recall | F1-Score | Support |
+|---------------|-----------|--------|----------|---------|
+| Cercospora    | 1.00      | 1.00   | 1.00     | 1536    |
+| Healthy       | 1.00      | 1.00   | 1.00     | 3797    |
+| Leaf rust     | 1.00      | 1.00   | 1.00     | 1667    |
+| Miner         | 1.00      | 1.00   | 1.00     | 3396    |
+| Phoma         | 1.00      | 1.00   | 1.00     | 1314    |
+| **Accuracy**      |           |        | **0.99** | 11710   |
+| **Macro Avg**     | 1.00      | 1.00   | 1.00     | 11710   |
+| **Weighted Avg**  | 1.00      | 1.00   | 1.00     | 11710   |
+
+Classification Report for MLP Model
+| Class         | Precision | Recall | F1-Score | Support |
+|---------------|-----------|--------|----------|---------|
+| Cercospora    | 0.85      | 0.95   | 0.90     | 1567    |
+| Healthy       | 1.00      | 1.00   | 1.00     | 3728    |
+| Leaf rust     | 0.97      | 0.93   | 0.95     | 1690    |
+| Miner         | 0.96      | 0.89   | 0.92     | 3395    |
+| Phoma         | 0.82      | 0.92   | 0.87     | 1330    |
+| **Accuracy**      |           |        | **0.94** | 11710   |
+| **Macro Avg**     | 0.92      | 0.94   | 0.93     | 11710   |
+| **Weighted Avg**  | 0.95      | 0.94   | 0.94     | 11710   |
+

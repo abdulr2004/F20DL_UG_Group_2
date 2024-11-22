@@ -21,8 +21,8 @@ This project explores two distinct machine learning tasks:
 
 ---
 ### Project Milestones
-D1. Week 4 - Project Pitch
-D2. Week 11 - Project Report and code finalized 
+D1. Week 4 - Project Pitch \
+D2. Week 11 - Project Report and code finalized \
 D3. Week 12 - Project Presentation and Viva Session
 
 ## Datasets

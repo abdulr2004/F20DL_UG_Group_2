@@ -28,7 +28,7 @@ This project explores two distinct machine learning tasks:
 - Images categorized into healthy and diseased plant leaves.
 - Images are resized and preprocessed with feature scaling.
 - Augmentation techniques (rotation, flipping, zooming) are applied to improve model performance.
-- **Source**: Dataset is downloaded via a provided script.
+- **Source**: Dataset can be downloaded via onedrive link: (https://heriotwatt-my.sharepoint.com/:u:/r/personal/pvr2000_hw_ac_uk/Documents/Datadl.zip?csf=1&web=1&e=dMfxho).
 - **Original Links**: 
 (https://data.mendeley.com/datasets/t2r6rszp5c/1) \
 (https://data.mendeley.com/datasets/tgv3zb82nd/1) 
@@ -79,16 +79,13 @@ git clone https://github.com/abdulr2004/F20DL_UG_Group_2.git
 cd F20DL_UG_Group_2
 ```
 
-### 2. Download and Prepare the Datasets
-```
-python downloader.py
-```
 
-## Dataset Preparation
-Before running the files, the following notebooks must be executed:
+
+## 2. Dataset Preparation
+Before running the models, the following notebooks must be executed:
 
 1. **Run Preprocessing.ipynb**: Preprocesses the tabular dataset.
-2. **Run ImagePreProcessing.ipynb**: Prepares and augments the image dataset.
+2. **Run ImagePreProcessing.ipynb**: After downPrepares the image dataset.
 
 ---
 

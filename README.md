@@ -28,8 +28,8 @@ This project explores two distinct machine learning tasks:
 - Images categorized into healthy and diseased plant leaves.
 - Images are resized and preprocessed with feature scaling.
 - Augmentation techniques (rotation, flipping, zooming) are applied to improve model performance.
-- **Source**: Dataset can be downloaded via onedrive link: (https://heriotwatt-my.sharepoint.com/:u:/r/personal/pvr2000_hw_ac_uk/Documents/Datadl.zip?csf=1&web=1&e=dMfxho).
-- **Original Links**: 
+- **Source**: Dataset is to be downloaded via onedrive link: \ (https://heriotwatt-my.sharepoint.com/:u:/r/personal/pvr2000_hw_ac_uk/Documents/Datadl.zip?csf=1&web=1&e=dMfxho).
+- **Original Links**: \
 (https://data.mendeley.com/datasets/t2r6rszp5c/1) \
 (https://data.mendeley.com/datasets/tgv3zb82nd/1) 
 

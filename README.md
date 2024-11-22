@@ -60,31 +60,26 @@ D3. Week 12 - Project Presentation and Viva Session
 ---
 
 ## Notebook Structure
+### 1. EDA and Pre Processing (R2)
+ *Notebook*:[EDA.ipynb](https://github.com/abdulr2004/F20DL_UG_Group_2/blob/main/notebooks/EDA.ipynb), [EDA Image.ipynb](https://github.com/abdulr2004/F20DL_UG_Group_2/blob/main/notebooks/EDA%20Image.ipynb)
+,[Preprocessing.ipynb](https://github.com/abdulr2004/F20DL_UG_Group_2/blob/main/notebooks/Preprocessing.ipynb), [ImagePreProcessing.ipynb](https://github.com/abdulr2004/F20DL_UG_Group_2/blob/main/notebooks/ImagePreProcessing.ipynb)
+ - Covers EDA and pre processing steps on both datasets.
 
-### 1. Image Processing and Classification
-- **Notebook**: [cnn.ipynb](https://github.com/abdulr2004/F20DL_UG_Group_2/blob/main/notebooks/cnn.ipynb), [KNN.ipynb](https://github.com/abdulr2004/F20DL_UG_Group_2/blob/main/notebooks/KNN.ipynb),   [KNN Augmentation.ipynb](https://github.com/abdulr2004/F20DL_UG_Group_2/blob/main/notebooks/KNN_Augmentation.ipynb),[MLP Notebook.ipynb](https://github.com/abdulr2004/F20DL_UG_Group_2/blob/main/notebooks/MLP%20Notebook.ipynb)  
-- Covers image preprocessing, augmentation, and training CNN, MLP, and k-NN models for plant health classification.
+### 2. Clustering (R3)
+- *Notebook*:[Clustering.ipynb](https://github.com/abdulr2004/F20DL_UG_Group_2/blob/main/notebooks/Clustering.ipynb)  
+- Applies K-means and GMM clustering on the tabular dataset
 
+### 3. Baseline Models (R4)
+- *Notebook*: [Logistic Regression.ipynb](https://github.com/abdulr2004/F20DL_UG_Group_2/blob/main/notebooks/Logistic%20Regression.ipynb)  , [Decision_Tree.ipynb](https://github.com/abdulr2004/F20DL_UG_Group_2/blob/main/notebooks/Decision_Tree.ipynb), [KNN.ipynb](https://github.com/abdulr2004/F20DL_UG_Group_2/blob/main/notebooks/KNN.ipynb),   [KNN Augmentation.ipynb](https://github.com/abdulr2004/F20DL_UG_Group_2/blob/main/notebooks/KNN_Augmentation.ipynb)
+- Baseline models and their evaluations.
 
-
-
-
-
-
-
-
-### 2. EDA and Coffee Quality Prediction
-- **Notebook**: [EDA.ipynb](https://github.com/abdulr2004/F20DL_UG_Group_2/blob/main/notebooks/EDA.ipynb)
-, [Logistic Regression.ipynb](https://github.com/abdulr2004/F20DL_UG_Group_2/blob/main/notebooks/Logistic%20Regression.ipynb)  , [Decision_Tree.ipynb](https://github.com/abdulr2004/F20DL_UG_Group_2/blob/main/notebooks/Decision_Tree.ipynb)  
-- Includes exploratory data analysis (EDA), clustering (K-Means), and machine learning models for coffee quality prediction.
-
-### 3. Clustering and Insights
-- **Notebook**: `[Clustering.ipynb](https://github.com/abdulr2004/F20DL_UG_Group_2/blob/main/notebooks/Clustering.ipynb)  
-- Applies K-Means clustering to identify patterns in sensory evaluation data.
+### 3. Neural Networks (R5)
+- *Notebook*: [cnn.ipynb](https://github.com/abdulr2004/F20DL_UG_Group_2/blob/main/notebooks/cnn.ipynb), [MLP Notebook.ipynb](https://github.com/abdulr2004/F20DL_UG_Group_2/blob/main/notebooks/MLP%20Notebook.ipynb)  
+- Neural networks for image classification tasks
 
 ---
 
-## Getting Started
+## Getting Started Steps
 
 ### 1. Clone the Repository
 ```

@@ -26,7 +26,7 @@ This project explores two distinct machine learning tasks:
 ### Image Dataset
 **Coffee Plant Health Dataset**:
 - Images categorized into healthy and diseased plant leaves.
-- Images are resized to 64x64 pixels and preprocessed with feature scaling.
+- Images are resized and preprocessed with feature scaling.
 - Augmentation techniques (rotation, flipping, zooming) are applied to improve model performance.
 - **Source**: Dataset is downloaded via a provided script.
 - **Original Links**: 
